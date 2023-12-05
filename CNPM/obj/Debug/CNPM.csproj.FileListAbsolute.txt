@@ -1,0 +1,11 @@
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\bin\Debug\CNPM.exe.config
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\bin\Debug\CNPM.exe
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\bin\Debug\CNPM.pdb
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\obj\Debug\CNPM.FormDangNhap.resources
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\obj\Debug\CNPM.exe
+D:\namba\hk1\CNPM\doan\bannop\code\CNPM\CNPM\obj\Debug\CNPM.pdb
